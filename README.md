@@ -7,5 +7,6 @@ A place to store my solution attempts for the [Scrimba Challenge Weeks](https://
 
 **Challenges**  
 
-**Week 1 - Valentine's Challenge Week 2022**
-Day 1: [Gift Selector](https://thebimsider.github.io/JavaScriptmas21/Day1/)   
+**Week 1 - Valentine's Challenge Week 2022**   
+Day 1: [Gift Selector](https://thebimsider.github.io/ScrimbaChallengeWeeks/W1-Day1/)   
+
