@@ -3,12 +3,12 @@
 A place to store my solution attempts for the [Scrimba Challenge Weeks](https://scrimba.com/learn/codeweeks)
 
 **What are Scrimba Challenge Weeks?**   
-They are week long coding challenges
-  📆 5 Days
-  💻 5 JavaSCript Challenges
-  🌟 Solutions of the day
-  💥 A ton of prizes
-  📺 Live Stream end of week (Friday)
+They are week long coding challenges   
+  📆 5 Days   
+  💻 5 JavaSCript Challenges   
+  🌟 Solutions of the day   
+  💥 A ton of prizes   
+  📺 Live Stream end of week (Friday)   
 
 **Challenges**  
 
