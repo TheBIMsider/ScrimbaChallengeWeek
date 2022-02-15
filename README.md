@@ -15,4 +15,4 @@ They are week long coding challenges
 **JaValentine's on Scrimba 2022 (Challenge Week 1)**   
    
 Day 1: [Gift Selector](https://thebimsider.github.io/ScrimbaChallengeWeeks/W1-Day1/)   
-
+Day 2: [The Valentine's Gretting Generator](https://thebimsider.github.io/ScrimbaChallengeWeeks/W1-Day2/)   
