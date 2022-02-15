@@ -8,7 +8,7 @@ They are week long coding challenges
   💻 5 JavaSCript Challenges   
   🌟 Solutions of the day   
   💥 A ton of prizes   
-  📺 Live Stream end of week (Friday)   
+  📺 Live Stream end of week (Friday)  
 
 **JaValentine's on Scrimba 2022 (Challenge Week 1)**   
 Day 1: [Gift Selector](https://thebimsider.github.io/ScrimbaChallengeWeeks/W1-Day1/)   
