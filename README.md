@@ -16,3 +16,4 @@ They are week long coding challenges
    
 Day 1: [Gift Selector](https://thebimsider.github.io/ScrimbaChallengeWeeks/W1-Day1/)   
 Day 2: [The Valentine's Gretting Generator](https://thebimsider.github.io/ScrimbaChallengeWeeks/W1-Day2/)   
+Day 3: [Romantic Grammar Corrector Challenge](https://thebimsider.github.io/ScrimbaChallengeWeeks/W1-Day3/)   
