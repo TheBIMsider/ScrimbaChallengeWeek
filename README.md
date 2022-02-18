@@ -18,3 +18,4 @@ Day 1: [Gift Selector](https://thebimsider.github.io/ScrimbaChallengeWeeks/W1-Da
 Day 2: [The Valentine's Gretting Generator](https://thebimsider.github.io/ScrimbaChallengeWeeks/W1-Day2/)   
 Day 3: [Romantic Grammar Corrector Challenge](https://thebimsider.github.io/ScrimbaChallengeWeeks/W1-Day3/)   
 Day 4: [Filter Duplicate Emojis](https://thebimsider.github.io/ScrimbaChallengeWeeks/W1-Day4/)   
+Day 5: [Heart Customiser API](https://thebimsider.github.io/ScrimbaChallengeWeeks/W1-Day5/)    
